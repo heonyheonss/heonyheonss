@@ -1,4 +1,11 @@
 ## Hi there 👋
+I'm Heon, a lifelong learner dedicated to expanding my knowledge and understanding diverse perspectives to make well-informed choices.
+
+- I'm currently pursuing Master's at the [**Nano-Opto-Plasmonics Laboratory (NOPLAB)**](https://sites.google.com/view/noplab) at Pusan National University, focusing on data-driven materials descovery.
+- I’m currently interested in Polymer Informatics, Machine Learning, Data Visualization
+- Python, PyTorch, GNN
+- E-mail: 31heonss01@gmail.com
+
 
 <!--
 **heonyheonss/heonyheonss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
