@@ -3,6 +3,7 @@ I'm Heon, a lifelong learner dedicated to expanding my knowledge and understandi
 
 - I'm currently pursuing Master's at the [**Nano-Opto-Plasmonics Laboratory (NOPLAB)**](https://sites.google.com/view/noplab) at Pusan National University, focusing on data-driven materials descovery.
 - I’m currently interested in Polymer Informatics, Machine Learning, Data Visualization
+- I'm currently learning through with my [**Today-I-Learned(TIL)**](https://github.com/heonyheonss/Today-I-Learned/)
 - Python, PyTorch, GNN
 - E-mail: 31heonss01@gmail.com
 
