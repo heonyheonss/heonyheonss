@@ -7,6 +7,10 @@ I'm Heon, a lifelong learner dedicated to expanding my knowledge and understandi
 - Python, PyTorch, GNN
 - E-mail: 31heonss01@gmail.com
 
+[About Computer]
+Desktop : CPU- ,GPU- ,OS- Window11Home
+Laptop  : CPU- ,GPU- ,OS- Window11Student
+
 I can communicated with you, in Korean, English.
 
 
