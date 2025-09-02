@@ -11,8 +11,8 @@ I'm Heon, a lifelong learner dedicated to expanding my knowledge and understandi
 - This is what I did for my LAB [**Arduion Projects**](https://github.com/heonyheonss/Arduino_for_NOPLAB_Repository)
 
 [About Computer]
-- Desktop : CPU- ,GPU- ,OS- Window11Home
-- Laptop  : CPU- ,GPU- ,OS- Window11Student
+- Desktop : CPU-AMD Ryzen 5 PRO 4650G with Radeon Graphics(3.70 GHz) (16.0GB), GPU-NVIDIA GeForce RTX 4060 ,OS-Window11Home
+- Laptop  : CPU- ,GPU- ,OS-Window11Home
 
 I can communicated with you, in Korean, English.
 
