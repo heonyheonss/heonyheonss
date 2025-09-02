@@ -8,7 +8,8 @@ I'm Heon, a lifelong learner dedicated to expanding my knowledge and understandi
 - E-mail: 31heonss01@gmail.com
 
 ## Projects
-- This is what I did for my LAB [**Arduion Projects**](https://github.com/heonyheonss/Arduino_for_NOPLAB_Repository)
+- [**This is Arduino Codes I made for my LAB**](https://github.com/heonyheonss/Arduino_for_NOPLAB_Repository)
+- [**This is Project for Kaggle Competitions**] # link will be added
 
 [About Computer]
 - Desktop : CPU-AMD Ryzen 5 PRO 4650G with Radeon Graphics(3.70 GHz) (16.0GB), GPU-NVIDIA GeForce RTX 4060 ,OS-Window11Home
