@@ -7,6 +7,9 @@ I'm Heon, a lifelong learner dedicated to expanding my knowledge and understandi
 - Python, PyTorch, GNN
 - E-mail: 31heonss01@gmail.com
 
+## Projects
+- This is what I did for my LAB [**Arduion Projects**](https://github.com/heonyheonss/Arduino_for_NOPLAB_Repository)
+
 [About Computer]
 - Desktop : CPU- ,GPU- ,OS- Window11Home
 - Laptop  : CPU- ,GPU- ,OS- Window11Student
